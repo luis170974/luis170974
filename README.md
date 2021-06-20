@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @luis170974
-- 👀 I’m interested in C#
-- 🌱 I’m currently learning C/C#
+- 👋 Hi, I’m Luis
+- 👀 I’m interested in C#, C, Phyton
+- 🌱 I’m currently learning C/C#/PHP/PHYTON
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
