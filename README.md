@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Luis
+- 👋 Hi, I’m Luis Henrique Ferreira Kraus
 - 👀 I’m interested in C#, C, Phyton
 - 🌱 I’m currently learning C/C#/PHP/PHYTON
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 luis170974/luis170974 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
