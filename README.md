@@ -1,4 +1,4 @@
-## Oiii eu sou Luis Henrique Ferreira Kraus, estudante de programação!
+## Olá eu sou Luis Henrique Ferreira Kraus, estudante de programação!
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luis170974&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
